@@ -1,0 +1,17 @@
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.deps.json
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.runtimeconfig.json
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.runtimeconfig.dev.json
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.dll
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.pdb
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.csprojAssemblyReference.cache
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.AssemblyInfoInputs.cache
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.AssemblyInfo.cs
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorAssemblyInfo.cache
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorAssemblyInfo.cs
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.dll
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.pdb
+C:\Users\UserDELL\source\repos\Supermarket.API.Solution\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.genruntimeconfig.cache
